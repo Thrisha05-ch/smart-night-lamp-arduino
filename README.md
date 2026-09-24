@@ -24,8 +24,12 @@ When sufficient light is detected, the LED turns OFF.
 
 ![Circuit](circuit.png)
 
+
 ## Tools Used
 
 - Arduino
 - Tinkercad Circuits
 - GitHub
+## Tinkercad Simulation
+
+[Open the Tinkercad Simulation](https://www.tinkercad.com/things/eFvEXhBHfFR/editel?sharecode=PZW8KDEKXCtsUOMtZ9fGsdBmvae1tqQv9wBV_Bezy28)
